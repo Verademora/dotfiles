@@ -1,0 +1,13 @@
+/Electron
+/cef_user_data
+/dconf
+/discord
+/gtk*
+/ibus
+/obsidian
+/pulse
+/ranger
+/sonic-visualiser
+/wally
+/.keymapp
+user*

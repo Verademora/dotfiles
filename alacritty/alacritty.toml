@@ -1,0 +1,28 @@
+[font]
+normal = { family = "ComicMono", style = "Regular" }
+bold = { family = "ComicMono", style = "Bold" }
+size = 12
+
+[colors.primary]
+background = "#000000"
+foreground = "#ffffff"
+
+[colors.normal]
+black = "#000000"
+red = "#F58E8E"
+green = "#A9D3AB"
+yellow = "#FED37E"
+blue = "#7AABD4"
+magenta = "#D6ADD5"
+cyan = "#79D4D5"
+white = "#D4D4D4"
+
+[colors.bright]
+black = "#000000"
+red = "#F58E8E"
+green = "#A9D3AB"
+yellow = "#FED37E"
+blue = "#7AABD4"
+magenta = "#D6ADD5"
+cyan = "#79D4D5"
+white = "#D4D4D4"
